@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0695-max-area-of-island](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0733-flood-fill) |
 ## Math
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
