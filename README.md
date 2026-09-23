@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0695-max-area-of-island](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3606-coupon-code-validator](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 ## Math
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Linked List
 |  |
 | ------- |
