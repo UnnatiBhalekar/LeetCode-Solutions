@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3606-coupon-code-validator](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 ## Math
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [3606-coupon-code-validator](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3606-coupon-code-validator](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 ## String
 |  |
 | ------- |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0709-to-lower-case](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0709-to-lower-case) |
+| [3606-coupon-code-validator](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 ## Sliding Window
 |  |
 | ------- |
