@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
 |  |
 | ------- |
