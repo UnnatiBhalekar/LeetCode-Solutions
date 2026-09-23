@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0709-to-lower-case](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0709-to-lower-case) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [3606-coupon-code-validator](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 ## Sliding Window
 |  |
@@ -208,4 +209,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
