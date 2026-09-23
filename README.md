@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0695-max-area-of-island](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -29,10 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -42,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3606-coupon-code-validator](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 ## Divide and Conquer
 |  |
@@ -82,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3606-coupon-code-validator](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 ## String
