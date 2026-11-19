@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0460-lfu-cache](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3606-coupon-code-validator](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 ## String
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0460-lfu-cache](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -201,10 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 ## Prefix Sum
 |  |
 | ------- |
