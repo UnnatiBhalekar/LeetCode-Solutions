@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0695-max-area-of-island](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
