@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0066-plus-one) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/UnnatiBhalekar/LeetCode-Solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Linked List
